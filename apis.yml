@@ -1,0 +1,66 @@
+aid: epicor
+name: Epicor
+description: >-
+  Epicor Software Corporation provides industry-specific enterprise resource planning
+  software for manufacturing, distribution, retail, and service industries. Epicor
+  Kinetic, the flagship ERP platform, exposes an Open REST API built on OData v4 that
+  gives developers service-based access to all business objects, processes, reports,
+  BAQs, and Epicor Functions using standard HTTP methods and API key authentication.
+type: Index
+url: https://raw.githubusercontent.com/api-evangelist/epicor/refs/heads/main/apis.yml
+tags:
+  - ERP
+  - Manufacturing
+  - Distribution
+  - Enterprise
+  - REST
+  - Fortune 500
+created: '2026-06-05'
+modified: '2026-06-05'
+specificationVersion: '0.19'
+apis:
+  - aid: epicor:epicor-kinetic-rest-api
+    name: Epicor Kinetic Open REST API
+    description: >-
+      The Epicor Kinetic Open REST API exposes all ERP capabilities through OData v4
+      compliant endpoints covering business objects, processes, reports, Business Activity
+      Queries (BAQs), and custom Epicor Functions. Access is controlled via API keys and
+      scopes aligned with existing ERP user permissions. The built-in interactive help
+      allows browsing services, inspecting metadata, and testing calls before integration.
+    humanURL: https://www.epicor.com/en/products/enterprise-resource-planning-erp/epicor-kinetic/tools-and-technology/open-rest-api/
+    baseURL: https://{tenant}.epicorsaas.com/api
+    tags:
+      - ERP
+      - Manufacturing
+      - OData
+      - Business Objects
+      - REST
+    properties:
+      - url: https://www.epicor.com/en/products/enterprise-resource-planning-erp/epicor-kinetic/tools-and-technology/open-rest-api/
+        type: Documentation
+      - url: https://www.epicor.com/en/solutions/technology/integration/
+        type: Integrations
+common:
+  - type: Website
+    url: https://www.epicor.com
+  - type: Documentation
+    url: https://www.epicor.com/en/products/enterprise-resource-planning-erp/epicor-kinetic/tools-and-technology/open-rest-api/
+  - type: Blog
+    url: https://www.epicor.com/en/blog/
+  - type: GitHubOrganization
+    url: https://github.com/epicor
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/epicorsoftware
+  - type: YouTube
+    url: https://www.youtube.com/@epicor
+  - type: Pricing
+    url: https://www.epicor.com/en/resources/contact-us/
+  - type: About
+    url: https://www.epicor.com/en/about/
+  - type: Integrations
+    url: https://www.epicor.com/en/solutions/technology/integration/
+  - type: Support
+    url: https://www.epicor.com/en/products/epicor-connected-process-control/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
