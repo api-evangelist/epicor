@@ -1,0 +1,84 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "https://schema.org/",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "mfg": "https://w3id.org/manufacturing#",
+    "odata": "https://docs.oasis-open.org/odata/odata/v4.0/",
+
+    "Epicor": {
+      "@id": "schema:Organization",
+      "@type": "@id"
+    },
+    "name": "schema:name",
+    "url": "schema:url",
+    "description": "schema:description",
+    "industry": "schema:industryIdentifier",
+    "foundingDate": "schema:foundingDate",
+    "legalName": "schema:legalName",
+
+    "ERP": {
+      "@id": "schema:SoftwareApplication",
+      "@type": "@id"
+    },
+    "KineticERP": "schema:SoftwareApplication",
+    "tenant": "schema:identifier",
+    "apiKey": "schema:accessCode",
+
+    "BusinessObject": {
+      "@id": "mfg:BusinessObject",
+      "@type": "@id"
+    },
+    "BusinessActivityQuery": {
+      "@id": "mfg:BusinessActivityQuery",
+      "@type": "@id"
+    },
+    "EpicorFunction": {
+      "@id": "mfg:EpicorFunction",
+      "@type": "@id"
+    },
+    "BAQ": "mfg:BusinessActivityQuery",
+
+    "SalesOrder": {
+      "@id": "schema:Order",
+      "@type": "@id"
+    },
+    "PurchaseOrder": {
+      "@id": "schema:Order",
+      "@type": "@id"
+    },
+    "WorkOrder": {
+      "@id": "mfg:WorkOrder",
+      "@type": "@id"
+    },
+    "BOM": {
+      "@id": "mfg:BillOfMaterials",
+      "@type": "@id"
+    },
+    "PartNumber": "schema:productID",
+    "CustomerID": "schema:identifier",
+    "VendorID": "schema:identifier",
+    "PlantID": "schema:identifier",
+    "CompanyID": "schema:identifier",
+
+    "ODataFeed": "odata:Feed",
+    "ODataEntity": "odata:Entity",
+    "ODataMetadata": "odata:Metadata",
+
+    "Manufacturing": "mfg:Manufacturing",
+    "Distribution": "mfg:Distribution",
+    "Inventory": "mfg:Inventory",
+    "FinancialLedger": "schema:FinancialProduct",
+    "GeneralLedger": "schema:FinancialProduct",
+
+    "epicor": "https://www.epicor.com/en/",
+    "kinetic": "https://www.epicor.com/en/products/enterprise-resource-planning-erp/epicor-kinetic/"
+  },
+  "@type": "schema:Organization",
+  "name": "Epicor Software Corporation",
+  "url": "https://www.epicor.com",
+  "description": "Epicor provides industry-specific ERP software for manufacturing, distribution, retail, and service industries via the Epicor Kinetic Open REST API built on OData v4.",
+  "industry": ["Manufacturing", "Distribution", "Enterprise Resource Planning"],
+  "legalName": "Epicor Software Corporation"
+}

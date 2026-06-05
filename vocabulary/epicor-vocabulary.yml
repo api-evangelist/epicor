@@ -1,0 +1,98 @@
+vocabulary:
+  name: Epicor Kinetic ERP Vocabulary
+  description: >-
+    Key industrial and manufacturing concepts used across the Epicor Kinetic
+    ERP platform and its Open REST API built on OData v4.
+  version: "1.0"
+  terms:
+
+    - term: ERP
+      definition: >-
+        Enterprise Resource Planning — an integrated software platform that
+        manages core business processes (finance, supply chain, manufacturing,
+        HR) in a single system. Epicor Kinetic is Epicor's flagship ERP product.
+      tags: [enterprise, software, platform]
+
+    - term: OData
+      definition: >-
+        Open Data Protocol (v4) — the REST-based standard used by the Epicor
+        Kinetic API for querying, filtering, and manipulating business data.
+        Enables $filter, $select, $expand, and $orderby query parameters.
+      tags: [protocol, rest, api, odata]
+
+    - term: BusinessObject
+      definition: >-
+        A discrete entity in the Epicor data model (e.g. Customer, Part,
+        SalesOrder, PurchaseOrder) exposed as an OData entity set through the
+        Kinetic REST API.
+      tags: [data-model, entity, erp]
+
+    - term: BAQ
+      definition: >-
+        Business Activity Query — a user-defined or system-defined query
+        executed server-side in Epicor Kinetic and accessible via the REST API
+        to retrieve cross-object reporting data.
+      tags: [query, reporting, analytics, erp]
+
+    - term: EpicorFunction
+      definition: >-
+        A custom server-side function authored in Epicor's low-code Function
+        Designer and callable through the REST API. Enables extending ERP
+        logic without modifying base code.
+      tags: [customization, serverless, erp, function]
+
+    - term: Tenant
+      definition: >-
+        An isolated Epicor SaaS environment identified by a subdomain
+        ({tenant}.epicorsaas.com). Each tenant has its own data, configuration,
+        and API key space.
+      tags: [saas, multi-tenant, infrastructure]
+
+    - term: BOM
+      definition: >-
+        Bill of Materials — a hierarchical list of raw materials, assemblies,
+        sub-assemblies, and parts required to manufacture a finished product.
+        Managed as a first-class object in Epicor Kinetic.
+      tags: [manufacturing, production, bom]
+
+    - term: WorkOrder
+      definition: >-
+        A manufacturing job order authorizing the production of a specific
+        quantity of a part or assembly. Tracks material requirements, labor
+        routing, and completion status in Epicor Kinetic.
+      tags: [manufacturing, production, job]
+
+    - term: PartNumber
+      definition: >-
+        A unique identifier for a stocked, manufactured, purchased, or
+        non-stocked item in the Epicor Kinetic Parts master table. Used across
+        inventory, purchasing, sales, and manufacturing modules.
+      tags: [inventory, part, manufacturing, identity]
+
+    - term: SalesOrder
+      definition: >-
+        A customer order document capturing lines, quantities, pricing, shipping
+        instructions, and fulfillment status. The entry point for the
+        order-to-cash process in Epicor Kinetic.
+      tags: [sales, order, commerce, erp]
+
+    - term: PurchaseOrder
+      definition: >-
+        A formal document issued to a vendor authorizing the procurement of
+        goods or services at agreed prices and delivery terms. Drives the
+        procure-to-pay cycle in Epicor Kinetic.
+      tags: [procurement, purchasing, vendor, erp]
+
+    - term: GeneralLedger
+      definition: >-
+        The central financial record containing all debit and credit entries for
+        a company. Epicor Kinetic exposes GL accounts, journals, and periods via
+        the REST API for financial integration.
+      tags: [finance, accounting, gl, erp]
+
+    - term: PlantID
+      definition: >-
+        An identifier for a manufacturing plant or warehouse site within a
+        multi-site Epicor Kinetic deployment. Used to scope production,
+        inventory, and resource records by physical location.
+      tags: [manufacturing, site, multi-site, identity]
