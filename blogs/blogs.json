@@ -2,13 +2,14 @@
   "repo": "epicor",
   "feeds": [
     {
-      "source": "https://www.epicor.com/en/blog/",
-      "feed_url": "",
-      "saved": 5,
-      "method": "agent-scrape"
+      "source": "https://www.epicor.com/en/products/enterprise-resource-planning-erp/epicor-kinetic/tools-and-technology/open-rest-api/",
+      "feed_url": "https://www.epicor.com/en/products/enterprise-resource-planning-erp/epicor-kinetic/tools-and-technology/open-rest-api/",
+      "title": "",
+      "saved": 0,
+      "method": "none"
     }
   ],
   "post_count": 8,
-  "fetched": "2026-06-27T12:40:25Z",
+  "fetched": "2026-07-11T11:50:51Z",
   "agent_pulled": "2026-06-27"
 }
