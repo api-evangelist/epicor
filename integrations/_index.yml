@@ -27,5 +27,5 @@
     - connectors/applications/epicor-prophet-21
     vendor_link: https://www.epicor.com/en-us/industry-productivity-solutions/distribution/platforms/prophet-21/
     builder: Fivetran
-  status: pending-partner-spec
+  status: not-a-workflow
   arazzo: null
