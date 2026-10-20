@@ -1,0 +1,6 @@
+name: Epicor rate limits
+generated: '2026-10-20'
+method: none
+limit_count: 0
+limits: []
+note: No rate limits published on public Epicor pages; Kinetic REST help is per-tenant and customer-only.

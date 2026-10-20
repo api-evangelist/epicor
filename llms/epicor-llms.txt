@@ -1,0 +1,282 @@
+# Epicor | ERP Software Solutions for Industry Leaders
+
+> Advanced ERP software curated to the unique needs of businesses in manufacturing, distribution, retail, and building supply.
+
+Epicor provides industry-specific tools designed for quicker ROI, better efficiency, and streamlined growth. Serving over 23,000 customers in 150+ countries, Epicor focuses on the "Make, Move, Sell" framework to optimize the global supply chain.
+
+## Solutions by Industry
+
+- [Manufacturing](https://www.epicor.com/en-us/solutions/industries/manufacturing/): Future-proof manufacturing operations with industry-specific ERP.
+- [Distribution](https://www.epicor.com/en-us/solutions/industries/distribution/): Wholesale distribution and supply chain management tools.
+- [Retail](https://www.epicor.com/en-us/solutions/industries/retail/): Omnichannel retail management and point-of-sale systems.
+- [Building Supply](https://www.epicor.com/en-us/solutions/industries/building-supply/): Specialized software for lumber yards and building material distributors.
+- [Automotive](https://www.epicor.com/en-us/solutions/industries/automotive/): Parts cataloging and aftermarket solutions.
+
+## Key Products
+
+- [Epicor Kinetic](https://www.epicor.com/en-us/products/enterprise-resource-planning-erp/kinetic/): Cloud ERP designed for discrete and process manufacturers.
+- [Epicor Prophet 21](https://www.epicor.com/en-us/products/enterprise-resource-planning-erp/prophet-21/): Out-of-the-box ERP built for wholesale distributors.
+- [Epicor Prism](https://www.epicor.com/en-us/products/artificial-intelligence/): Agentic AI stack for building AI agents into ERP workflows.
+- [Grow AI / BI](https://www.epicor.com/en-us/products/business-intelligence-and-data-management/grow/): Business intelligence and AI-powered data visualization.
+- [Epicor ECM](https://www.epicor.com/en-us/products/business-intelligence-and-data-management/enterprise-content-management/): Enterprise Content Management (formerly DocStar).
+
+## Learning & Resources
+
+- [Resource Library](https://www.epicor.com/en-us/resources/): Collection of eBooks, white papers, videos, and podcasts.
+- [Success Stories](https://www.epicor.com/en-us/resources/success-stories/): Real-world customer examples and ROI case studies.
+- [Epicor Learning](https://www.epicor.com/en-us/customers/epicor-learning/): Training and education platform for users.
+- [Epicor Blog](https://www.epicor.com/en-us/blog/): Insights on digital transformation, AI, and industry trends.
+
+## Support & Services
+
+- [EpicCare](https://www.epicor.com/en-us/customers/customer-support/): 24/7 technical support portal.
+- [Professional Services](https://www.epicor.com/en-us/customers/support-services/): Implementation and optimization consulting.
+
+## Optional
+
+- [About Epicor](https://www.epicor.com/en-us/company/about/): Corporate mission, leadership, and global presence.
+- [Partners](https://www.epicor.com/en-us/partners/): Opportunities for ISVs and Channel partners.
+- [Newsroom](https://www.epicor.com/en-us/newsroom/news-releases/): Latest company announcements and press releases.
+
+# Epicor
+
+> Industry-specific ERP software for manufacturers, distributors, and retailers.
+
+Epicor provides enterprise resource planning (ERP) software solutions tailored to the specific needs of various industries, including manufacturing, distribution, building supply, automotive, and retail. Their offerings aim to streamline operations, improve efficiency, accelerate return on investment, and foster business growth through industry expertise and advanced technology.
+
+The website serves as a comprehensive resource for businesses seeking to understand and implement ERP solutions. It details their product suite, industry-specific applications, technological innovations like AI and cloud solutions, and customer success stories. Users can explore product features, learn about industry best practices, and find resources to support their business transformation.
+
+When interacting with an LLM about Epicor, it's important to understand that their focus is on providing robust, industry-tailored ERP systems. The content covers a wide range of software modules and solutions, from core ERP functionalities to specialized tools for areas like supply chain management, financial planning, digital commerce, and connected worker solutions. The site also highlights their commitment to innovation, including AI-driven applications and cloud-based services.
+
+## Core Product Information
+
+- [Epicor ERP Software Solutions](https://www.epicor.com/en-us/): Explore industry-specific ERP software for manufacturing, distribution, and retail.
+- [Epicor Solutions Overview](https://www.epicor.com/en-us/solutions/): Discover comprehensive ERP solutions tailored to industry needs.
+- [Industry-Specific Solutions](https://www.epicor.com/en-us/solutions/industries/): Find ERP solutions designed for automotive, building supply, distribution, manufacturing, and retail.
+- [Technology Solutions](https://www.epicor.com/en-us/solutions/technology/): Learn about AI, cloud, cybersecurity, and integration technologies for ERP.
+- [Current Software Solutions](https://www.epicor.com/en-us/solutions/current-software/): Explore current ERP software offerings and comparisons.
+- [Epicor Products](https://www.epicor.com/en-us/products/): Browse the full range of Epicor's ERP and business management products.
+- [Epicor Products A-Z](https://www.epicor.com/en-us/products/a-to-z/): View an alphabetical list of all Epicor products and solutions.
+- [Enterprise Resource Planning (ERP)](https://www.epicor.com/en-us/products/enterprise-resource-planning-erp/): Understand Epicor's core ERP solutions for business management.
+
+## Industry Solutions
+
+- [Automotive Industry ERP](https://www.epicor.com/en-us/solutions/industries/automotive/): Discover ERP solutions tailored for the automotive sector.
+- [Building Supply Industry ERP](https://www.epicor.com/en-us/solutions/industries/building-supply/): Learn about ERP solutions for the building supply industry.
+- [Distribution Industry ERP](https://www.epicor.com/en-us/solutions/industries/distribution/): Explore ERP solutions designed for the distribution sector.
+- [Manufacturing Industry ERP](https://www.epicor.com/en-us/solutions/industries/manufacturing/): Find ERP solutions optimized for manufacturing operations.
+- [Retail Industry ERP](https://www.epicor.com/en-us/solutions/industries/retail/): Discover ERP solutions built for the retail industry.
+
+## Technology Solutions
+
+- [People-Centric AI](https://www.epicor.com/en-us/solutions/technology/people-centric-ai/): Understand Epicor's approach to AI in business solutions.
+- [Cybersecurity Solutions](https://www.epicor.com/en-us/solutions/technology/cybersecurity/): Learn about Epicor's cybersecurity features for ERP.
+- [Epicor Industry ERP Cloud](https://www.epicor.com/en-us/solutions/technology/epicor-industry-erp-cloud/): Explore cloud-based ERP solutions for various industries.
+- [Information Management](https://www.epicor.com/en-us/solutions/technology/information-management/): Discover solutions for managing business information effectively.
+- [Integration Solutions](https://www.epicor.com/en-us/solutions/technology/integration/): Learn how Epicor integrates with other business systems.
+- [Low-Code/No-Code Development](https://www.epicor.com/en-us/solutions/technology/low-code-no-code-development/): Explore tools for rapid application development with low-code/no-code.
+- [People-Centric Automation](https://www.epicor.com/en-us/solutions/technology/people-centric-automation/): Understand automation solutions focused on user experience.
+- [Supply Chain Resilience](https://www.epicor.com/en-us/solutions/technology/supply-chain-resilience/): Discover strategies and tools for resilient supply chains.
+- [Sustainability Solutions](https://www.epicor.com/en-us/solutions/technology/sustainability/): Learn about Epicor's solutions supporting business sustainability.
+
+## Specific Product Details
+
+- [AI-Powered Applications](https://www.epicor.com/en-us/products/ai-powered-applications/): Explore Epicor's suite of artificial intelligence applications.
+- [Business Intelligence & Data Management](https://www.epicor.com/en-us/products/business-intelligence-and-data-management/): Discover tools for BI, data analytics, and management.
+- [Connected Worker Solutions](https://www.epicor.com/en-us/products/connected-worker/): Learn about solutions enhancing frontline worker productivity.
+- [Digital Commerce Solutions](https://www.epicor.com/en-us/products/digital-commerce/): Explore Epicor's offerings for online business and e-commerce.
+- [Electronic Data Interchange (EDI)](https://www.epicor.com/en-us/products/electronic-data-interchange-edi/): Understand Epicor's EDI solutions for business document exchange.
+- [Epicor Financials](https://www.epicor.com/en-us/products/epicor-financials/): Discover financial management and planning tools.
+- [Manufacturing Execution Software (MES)](https://www.epicor.com/en-us/products/manufacturing-execution-software-mes/): Learn about MES solutions for shop floor control.
+- [Retail Management Systems (RMS)](https://www.epicor.com/en-us/products/retail-management-systems-rms/): Explore retail management solutions for point-of-sale and operations.
+- [Service Management Solutions](https://www.epicor.com/en-us/products/service-management/): Discover tools for managing service operations and field service.
+- [Supply Chain Management (SCM)](https://www.epicor.com/en-us/products/supply-chain-management-scm/): Learn about SCM solutions for optimizing supply chains.
+- [Enterprise Content Management (ECM)](https://www.epicor.com/en-us/products/enterprise-content-management-ecm/): Explore solutions for managing enterprise content.
+- [Financial Planning & Analysis (FPA)](https://www.epicor.com/en-us/products/epicor-financials/financial-planning-analysis-fpa/): Discover tools for financial planning and analysis.
+- [Epicor Prism](https://www.epicor.com/en-us/products/ai-powered-applications/prism/): Learn about Prism, an AI-powered application for business insights.
+- [Epicor Inventory Platform](https://www.epicor.com/en-us/products/supply-chain-management-scm/epicor-inventory-platform/): Explore the inventory management capabilities of the platform.
+- [Grow AI](https://www.epicor.com/en-us/products/ai-powered-applications/grow-ai/): Understand Grow AI for enhancing business growth.
+- [Epicor Grow](https://www.epicor.com/en-us/products/business-intelligence-and-data-management/grow/): Learn about Grow for business intelligence and analytics.
+- [Aftermarket Data Analytics](https://www.epicor.com/en-us/products/business-intelligence-and-data-management/aftermarket-data-analytics/): Discover data analytics solutions for the aftermarket industry.
+- [Data as a Service (DaaS)](https://www.epicor.com/en-us/products/business-intelligence-and-data-management/daas/): Explore Epicor's Data as a Service offerings.
+- [Data Fabric](https://www.epicor.com/en-us/products/business-intelligence-and-data-management/data-fabric/): Understand Epicor's data fabric for unified data access.
+- [Epicor Collaborate](https://www.epicor.com/en-us/products/business-intelligence-and-data-management/epicor-collaborate/): Learn about the collaboration features within Epicor solutions.
+- [Epicor Data Analytics](https://www.epicor.com/en-us/products/business-intelligence-and-data-management/epicor-data-analytics/): Discover capabilities of Epicor's data analytics platform.
+- [Digital Asset Management](https://www.epicor.com/en-us/products/business-intelligence-and-data-management/digital-asset-management/): Explore solutions for managing digital assets.
+- [Epicor IoT](https://www.epicor.com/en-us/products/business-intelligence-and-data-management/epicor-iot/): Learn about Internet of Things integration with Epicor.
+- [Informance EMI](https://www.epicor.com/en-us/products/business-intelligence-and-data-management/informance-emi/): Understand Informance EMI for manufacturing execution.
+- [Epicor Strategic Pricing](https://www.epicor.com/en-us/products/business-intelligence-and-data-management/epicor-strategic-pricing/): Discover tools for strategic pricing management.
+- [Studio Services](https://www.epicor.com/en-us/products/business-intelligence-and-data-management/studio-services/): Learn about services for customizing Epicor solutions.
+- [Integration Platform as a Service (iPaaS)](https://www.epicor.com/en-us/products/business-intelligence-and-data-management/ipaas/): Explore iPaaS solutions for seamless system integration.
+- [Managed Product Information Management](https://www.epicor.com/en-us/products/business-intelligence-and-data-management/managed-pim/): Discover managed services for PIM.
+- [Data Syndication](https://www.epicor.com/en-us/products/business-intelligence-and-data-management/syndication/): Learn about data syndication services for product information.
+- [Product Information Management (PIM)](https://www.epicor.com/en-us/products/business-intelligence-and-data-management/pim/): Explore PIM solutions for managing product data.
+- [Vista Information Services](https://www.epicor.com/en-us/products/business-intelligence-and-data-management/vista-information-services/): Understand Vista information services for business data.
+- [Acadia](https://www.epicor.com/en-us/products/connected-worker/acadia/): Learn about Acadia for connected worker solutions.
+- [Epicor Connected Process Control](https://www.epicor.com/en-us/products/connected-worker/epicor-connected-process-control/): Discover process control solutions for connected workers.
+- [Digital Commerce Business Products](https://www.epicor.com/en-us/products/digital-commerce/business-products/): Explore business products for digital commerce.
+- [Certified Hardware](https://www.epicor.com/en-us/products/digital-commerce/certified-hardware/): Find certified hardware for Epicor digital commerce solutions.
+- [Commerce Connect](https://www.epicor.com/en-us/products/digital-commerce/commerce-connect/): Learn about the Commerce Connect platform.
+- [Commerce for Automotive](https://www.epicor.com/en-us/products/digital-commerce/commerce-for-automotive/): Discover e-commerce solutions tailored for the automotive industry.
+- [Configure, Price, Quote (CPQ)](https://www.epicor.com/en-us/products/digital-commerce/cpq/): Explore CPQ solutions for sales and quoting.
+- [Listing Expert](https://www.epicor.com/en-us/products/digital-commerce/listing-expert/): Learn about Listing Expert for product data management.
+- [Epicor Parts Network](https://www.epicor.com/en-us/products/digital-commerce/epicor-parts-network/): Discover the Epicor Parts Network for parts distribution.
+- [Digital Commerce Payments](https://www.epicor.com/en-us/products/digital-commerce/payments/): Explore payment solutions for e-commerce.
+- [Quick Ship](https://www.epicor.com/en-us/products/digital-commerce/quick-ship/): Learn about Quick Ship for streamlined order fulfillment.
+- [Epicor SalesProgo](https://www.epicor.com/en-us/products/digital-commerce/epicor-salesprogo/): Discover SalesProgo for mobile sales enablement.
+- [BisTrack ERP](https://www.epicor.com/en-us/products/enterprise-resource-planning-erp/bistrack/): Learn about BisTrack ERP for lumber and building materials.
+- [CMS ERP](https://www.epicor.com/en-us/products/enterprise-resource-planning-erp/cms/): Explore CMS ERP solutions for specific industries.
+- [Eclipse ERP](https://www.epicor.com/en-us/products/enterprise-resource-planning-erp/eclipse/): Discover Eclipse ERP for wholesale distribution.
+- [Indago ERP](https://www.epicor.com/en-us/products/enterprise-resource-planning-erp/indago/): Learn about Indago ERP for business insights.
+- [Epicor Kinetic ERP](https://www.epicor.com/en-us/products/enterprise-resource-planning-erp/kinetic/): Explore Kinetic, Epicor's modern ERP solution.
+- [LumberTrack ERP](https://www.epicor.com/en-us/products/enterprise-resource-planning-erp/lumbertrack/): Understand LumberTrack ERP for the lumber industry.
+- [Prophet 21 ERP](https://www.epicor.com/en-us/products/enterprise-resource-planning-erp/prophet-21/): Discover Prophet 21 ERP for wholesale distribution.
+- [Vision ERP](https://www.epicor.com/en-us/products/enterprise-resource-planning-erp/vision/): Learn about Vision ERP for wholesale distribution.
+- [Atlas Exchange](https://www.epicor.com/en-us/products/electronic-data-interchange-edi/atlasexchange/): Explore Atlas Exchange for EDI integration.
+- [AS2 Complete](https://www.epicor.com/en-us/products/electronic-data-interchange-edi/as2-complete/): Understand AS2 Complete for secure EDI communication.
+- [EDI Headquarters](https://www.epicor.com/en-us/products/electronic-data-interchange-edi/edi-headquarters/): Discover EDI Headquarters for managing EDI processes.
+- [HQXchange](https://www.epicor.com/en-us/products/electronic-data-interchange-edi/hqxchange/): Learn about HQXchange for EDI transaction management.
+- [IntelligentXchange](https://www.epicor.com/en-us/products/electronic-data-interchange-edi/intelligentxchange/): Explore IntelligentXchange for smart EDI solutions.
+- [ManagedXchange](https://www.epicor.com/en-us/products/electronic-data-interchange-edi/managedxchange/): Discover managed EDI services with ManagedXchange.
+- [PartnerXchange](https://www.epicor.com/en-us/products/electronic-data-interchange-edi/partnerxchange/): Learn about PartnerXchange for partner EDI integration.
+- [EDI Supplier Portal](https://www.epicor.com/en-us/products/electronic-data-interchange-edi/supplier-portal/): Explore the supplier portal for EDI document exchange.
+- [PTW Financials Core](https://www.epicor.com/en-us/products/epicor-financials/ptw-financials-core/): Understand PTW Financials Core for financial management.
+- [Global Business Management](https://www.epicor.com/en-us/products/epicor-financials/global-business-management/): Discover solutions for global financial operations.
+- [Tax Connect](https://www.epicor.com/en-us/products/epicor-financials/tax-connect/): Learn about Tax Connect for tax compliance.
+- [Cash Collect](https://www.epicor.com/en-us/products/epicor-financials/cash-collect/): Explore Cash Collect for accounts receivable automation.
+- [Advanced Requisition Management](https://www.epicor.com/en-us/products/epicor-financials/advanced-requisition-management/): Discover advanced tools for managing purchase requisitions.
+- [Advanced MES](https://www.epicor.com/en-us/products/manufacturing-execution-software-mes/advanced-mes/): Learn about Advanced MES for manufacturing operations.
+- [Decor Fusion](https://www.epicor.com/en-us/products/retail-management-systems-rms/decor-fusion/): Explore Decor Fusion for retail management.
+- [Eagle Retail Management System](https://www.epicor.com/en-us/products/retail-management-systems-rms/eagle/): Discover Eagle RMS for retail operations.
+- [Eagle for the Aftermarket](https://www.epicor.com/en-us/products/retail-management-systems-rms/eagle-for-the-aftermarket/): Learn about Eagle RMS tailored for the aftermarket.
+- [Propello](https://www.epicor.com/en-us/products/retail-management-systems-rms/propello/): Explore Propello for retail business solutions.
+- [Field Service Management](https://www.epicor.com/en-us/products/service-management/field-service-management/): Discover solutions for managing field service operations.
+- [Epicor Service CRM](https://www.epicor.com/en-us/products/service-management/epicor-service-crm/): Learn about Service CRM for customer service management.
+- [Integrated Service Estimator](https://www.epicor.com/en-us/products/service-management/integrated-service-estimator/): Explore tools for estimating service job costs.
+- [Elite Extra](https://www.epicor.com/en-us/products/supply-chain-management-scm/elite-extra/): Learn about Elite Extra for supply chain visibility.
+- [Catalog for Automotive](https://www.epicor.com/en-us/products/supply-chain-management-scm/catalog-for-automotive/): Discover catalog solutions for the automotive supply chain.
+- [Part Expert](https://www.epicor.com/en-us/products/supply-chain-management-scm/part-expert/): Explore Part Expert for managing product parts data.
+- [Supplier Services](https://www.epicor.com/en-us/products/supply-chain-management-scm/supplier-services/): Learn about services for managing supplier relationships.
+- [Warehouse Management (WMS)](https://www.epicor.com/en-us/products/enterprise-resource-planning-erp/warehouse-management-wms/): Discover WMS solutions for optimizing warehouse operations.
+- [Supplier Relationship Management (SRM)](https://www.epicor.com/en-us/products/supply-chain-management-scm/supplier-relationship-management-srm/): Explore SRM solutions for managing supplier interactions.
+
+## Customer Resources
+
+- [Epicor Customers](https://www.epicor.com/en-us/customers/): View customer success stories and information.
+- [Customer Support](https://www.epicor.com/en-us/customers/customer-support/): Access support resources and contact information.
+- [Epicor Learning](https://www.epicor.com/en-us/customers/epicor-learning/): Find learning resources and training materials.
+- [Support Services](https://www.epicor.com/en-us/customers/support-services/): Explore various support services offered by Epicor.
+- [Cloud Migrations](https://www.epicor.com/en-us/customers/cloud-migrations/): Learn about Epicor's cloud migration services.
+- [Innovation Moves to the Cloud](https://www.epicor.com/en-us/lp/innovation-moves-to-the-cloud/): Discover how innovation is driven by cloud solutions.
+- [EpicCare Support Portal](https://epiccare.epicor.com/epiccare): Access the EpicCare portal for support and resources.
+- [EpicCare Guide](https://epiccare.epicor.com/epiccare?id=login_cat_item_guide&sys_id=653e9ccedb17959089ab6e9d1396199e): Find guides and documentation for EpicCare.
+- [Password Reset](https://epiccare.epicor.com/epiccare?id=pwd_reset&sysparm_show_custom_header_footer=false): Reset your EpicCare password here.
+- [EpicCare Login](https://epiccare.epicor.com/epiccare?id=epiccare_login_cat_item&sys_id=de07e312db8745948af6f592ba9619e0): Log in to the EpicCare support system.
+- [IDP FAQ](https://www.epicor.com/en-us/customers/idp-faq/): Frequently asked questions about Identity Provider.
+- [Epicor Learn Center](https://learncenter.epicor.com/learn): Access comprehensive learning and training resources.
+- [Customer Success Stories](https://www.epicor.com/en-us/resources/success-stories/): Read about how customers have succeeded with Epicor.
+- [Epicor Consulting Services](https://www.epicor.com/en-us/customers/support-services/epicor-consulting/): Learn about professional consulting services for Epicor solutions.
+- [Security Suite](https://www.epicor.com/en-us/customers/security-suite/): Discover Epicor's security offerings for customers.
+
+## Company Information
+
+- [Epicor Company Overview](https://www.epicor.com/en-us/company/): Learn about Epicor's company and mission.
+- [About Epicor](https://www.epicor.com/en-us/company/about/): Get detailed information about Epicor's history and values.
+- [Global Sites](https://www.epicor.com/en-us/company/global-sites/): Find Epicor office locations worldwide.
+- [Contact Us](https://www.epicor.com/en-us/company/contact/): Find ways to contact Epicor for inquiries.
+- [Contact Information](https://www.epicor.com/en-us/company/contact-information/): Get specific contact details for Epicor.
+- [Why Epicor](https://www.epicor.com/en-us/company/why/): Understand the reasons to choose Epicor solutions.
+- [Referral Program](https://www.epicor.com/en-us/company/referral-program/): Learn about Epicor's customer referral program.
+- [Private Equity](https://www.epicor.com/en-us/company/private-equity/): Information regarding Epicor's private equity ownership.
+- [Corporate Citizenship](https://www.epicor.com/en-us/company/corporate-citizenship/): Discover Epicor's commitment to corporate social responsibility.
+- [Careers at Epicor](https://www.epicor.com/en-us/jobs/): Explore job opportunities and careers at Epicor.
+
+## Newsroom & Insights
+
+- [Newsroom](https://www.epicor.com/en-us/newsroom/): Access the latest news and press releases from Epicor.
+- [News Releases](https://www.epicor.com/en-us/newsroom/news-releases/): Read official press releases from Epicor.
+- [Leadership Team](https://www.epicor.com/en-us/newsroom/epicor-leadership-team/): Meet the Epicor leadership team.
+- [Board of Directors](https://www.epicor.com/en-us/newsroom/epicor-board-of-directors/): View the Epicor Board of Directors.
+- [Analyst Coverage](https://www.epicor.com/en-us/newsroom/industry-analyst-and-influencer-coverage/): See industry analyst and influencer coverage of Epicor.
+- [In the News](https://www.epicor.com/en-us/newsroom/in-the-news/): Find mentions of Epicor in the media.
+- [Epicor Insights](https://www.epicor.com/en-us/insights/): Explore industry insights and trends.
+- [Americas Insights](https://www.epicor.com/en-us/insights/americas/): Read industry insights relevant to the Americas.
+- [Europe Insights](https://www.epicor.com/en-us/insights/europe/): Discover industry insights for the European market.
+- [ANZ Insights](https://www.epicor.com/en-us/insights/anz/): Explore industry insights for Australia and New Zealand.
+- [Building Supply & Retail Insights 2026](https://www.epicor.com/en-us/insights/building-supply-and-retail/2026/): Get insights for building supply and retail industries.
+
+## Resources & Blog
+
+- [Epicor Resources](https://www.epicor.com/en-us/resources/): Access a library of resources including white papers and guides.
+- [Epicor Blog](https://www.epicor.com/en-us/blog/): Read the latest articles and insights on the Epicor blog.
+- [Resource Library](https://www.epicor.com/en-us/resources/library/): Browse Epicor's comprehensive library of content.
+- [Events](https://www.epicor.com/en-us/resources/events/): Find information on upcoming and past Epicor events.
+- [Videos](https://www.epicor.com/en-us/resources/videos/): Watch videos about Epicor products and solutions.
+- [Manufacturing the Future Podcast](https://www.epicor.com/en-us/resources/manufacturing-the-future-podcast/): Listen to the podcast on the future of manufacturing.
+- [Agility Index](https://www.epicor.com/en-us/resources/interactive/agility-index/): Explore the Agility Index interactive tool.
+- [Blog Feed - Industry Expertise](https://www.epicor.com/en-us/blog/feed/?f=47): Read blog posts focused on industry expertise.
+
+## Partners
+
+- [Epicor Partners](https://www.epicor.com/en-us/partners/): Discover Epicor's partner ecosystem.
+- [ISV Partners](https://www.epicor.com/en-us/partners/isv-partners/): Learn about Epicor's Independent Software Vendor partners.
+- [Channel Partners](https://www.epicor.com/en-us/partners/channel-partners/): Find Epicor channel partners.
+- [ISV Partner Directory](https://www.epicor.com/en-us/partners/isv-partners/directory/): Browse the directory of ISV partners.
+- [Become a Partner](https://www.epicor.com/en-us/partners/channel-partners/become-a-partner/): Learn how to become an Epicor channel partner.
+- [Find a Partner](https://www.epicor.com/en-us/partners/channel-partners/find-a-partner/): Search for an Epicor channel partner.
+- [EpicWeb Partner Portal](https://epicweb.epicor.com/): Access the EpicWeb portal for partners.
+
+## Specific Success Stories
+
+- [Enjet Aero Success Story](https://www.epicor.com/en-us/resources/success-stories/manufacturing/enjet-aero/): Read how Enjet Aero benefited from Epicor solutions.
+- [Guillevin International Success Story](https://www.epicor.com/en-us/resources/success-stories/distribution/guillevin-international/): Learn about Guillevin International's success with Epicor.
+- [Lakewood Ace Hardware Success Story](https://www.epicor.com/en-us/resources/success-stories/retail/lakewood-ace-hardware/): Discover Lakewood Ace Hardware's success with Epicor.
+- [Builders Warehouse Inc. Success Story](https://www.epicor.com/en-us/resources/success-stories/building-supply/builders-warehouse-inc/): Read about Builders Warehouse Inc.'s success with Epicor.
+- [Stephen Gould Success Story](https://www.epicor.com/en-us/resources/success-stories/manufacturing/stephen-gould/): Learn how Stephen Gould achieved success with Epicor.
+- [Beaumont Hardware Success Story](https://www.epicor.com/en-us/resources/success-stories/retail/beaumont-hardware/): Discover Beaumont Hardware's success with Epicor.
+- [Ace Hardware of Appleton Success Story](https://www.epicor.com/en-us/resources/success-stories/retail/ace-hardware-of-appleton/): Read about Ace Hardware of Appleton's success.
+- [JR Automation Success Story](https://www.epicor.com/en-us/resources/success-stories/manufacturing/jr-automation/): Learn how JR Automation succeeded with Epicor.
+- [Big Ass Fans Success Story](https://www.epicor.com/en-us/resources/success-stories/manufacturing/big-ass-fans/): Discover Big Ass Fans' success with Epicor.
+- [Flower World Success Story](https://www.epicor.com/en-us/resources/success-stories/retail/flower-world/): Read about Flower World's success with Epicor.
+- [Dorman Products Success Story Video](https://www.epicor.com/en-us/resources/videos/automotive-aftermarket/dorman-products-customer-success-story-video/): Watch the success story video for Dorman Products.
+- [Audiotonix Success Story](https://www.epicor.com/en-us/resources/success-stories/manufacturing/audiotonix/): Learn about Audiotonix's success with Epicor.
+- [Ergobaby Success Story](https://www.epicor.com/en-us/resources/success-stories/manufacturing/ergobaby/): Discover Ergobaby's success with Epicor.
+- [Piston Ring Service Success Story](https://www.epicor.com/en-us/resources/success-stories/automotive/piston-ring-service/): Read about Piston Ring Service's success with Epicor.
+
+## Login & Support Portals
+
+- [EpicWeb Login](https://epicweb.epicor.com/?_ga=2.7881841.2140580759.1540880300-385136682.1540880300): Log in to the EpicWeb platform.
+- [Epicor Login](https://login.epicor.com/): Access the main Epicor login page.
+
+## Other Software Comparisons
+
+- [Epicor vs. IFS](https://www.epicor.com/en-us/solutions/current-software/manufacturing/ifs/): Compare Epicor ERP with IFS solutions.
+- [Epicor vs. Infor](https://www.epicor.com/en-us/solutions/current-software/manufacturing/infor/): Compare Epicor ERP with Infor solutions.
+- [Epicor vs. NetSuite](https://www.epicor.com/en-us/solutions/current-software/netsuite/): Compare Epicor ERP with NetSuite solutions.
+- [Epicor vs. Plex](https://www.epicor.com/en-us/solutions/current-software/manufacturing/plex/): Compare Epicor ERP with Plex solutions.
+- [Epicor vs. Sage](https://www.epicor.com/en-us/solutions/current-software/manufacturing/sage/): Compare Epicor ERP with Sage solutions.
+
+## Miscellaneous
+
+- [Success Stories - Manufacturing](https://www.epicor.com/en-us/resources/success-stories/?f=169): Filter success stories for the manufacturing industry.
+- [Success Stories - Distribution](https://www.epicor.com/en-us/resources/success-stories/?f=260&s=): Filter success stories for the distribution industry.
+- [Success Stories - Retail](https://www.epicor.com/en-us/resources/success-stories/?f=173&s=): Filter success stories for the retail industry.
+- [Success Stories - Building Supply](https://www.epicor.com/en-us/resources/success-stories/?f=6&s=): Filter success stories for the building supply industry.
+- [Success Stories - Automotive](https://www.epicor.com/en-us/resources/success-stories/?f=237&s=): Filter success stories for the automotive industry.
+- [Resource Library - Manufacturing](https://www.epicor.com/en-us/resources/library/?f=169&s=): Filter resource library for manufacturing content.
+- [Resource Library - Distribution](https://www.epicor.com/en-us/resources/library/?f=260&s=): Filter resource library for distribution content.
+- [Resource Library - Retail](https://www.epicor.com/en-us/resources/library/?f=173&s=): Filter resource library for retail content.
+- [Resource Library - Building Supply](https://www.epicor.com/en-us/resources/library/?f=6&s=): Filter resource library for building supply content.
+- [Resource Library - Automotive](https://www.epicor.com/en-us/resources/library/?f=237&s=): Filter resource library for automotive content.
+- [Events - Webinars & Online](https://www.epicor.com/en-us/resources/events/?f=962%2C405%2C434&s=): Find upcoming webinars and online events.
+- [Events - Industry & User Conferences](https://www.epicor.com/en-us/resources/events/?f=404%2C434&s=): Discover industry and user conferences.
+- [Events - Trade Shows](https://www.epicor.com/en-us/resources/events/?f=435&s=): Find information on trade shows Epicor is attending.
+- [Success Stories - Manufacturing Filtered](https://www.epicor.com/en-us/resources/success-stories/?f=169&s=): View filtered success stories for manufacturing.
+- [Videos - Manufacturing](https://www.epicor.com/en-us/resources/videos/?f=169&s=): Filter videos related to the manufacturing industry.
+- [Videos - Distribution](https://www.epicor.com/en-us/resources/videos/?f=260&s=): Filter videos related to the distribution industry.
+- [Videos - Retail](https://www.epicor.com/en-us/resources/videos/?f=173&s=): Filter videos related to the retail industry.
+- [Videos - Building Supply](https://www.epicor.com/en-us/resources/videos/?f=6&s=): Filter videos related to the building supply industry.
+- [Videos - Automotive](https://www.epicor.com/en-us/resources/videos/?f=237&s=): Filter videos related to the automotive industry.
+- [Kinetic SCM](https://www.epicor.com/en-us/products/enterprise-resource-planning-erp/kinetic/supply-chain-management/): Explore supply chain management features within Kinetic ERP.
+- [Business Process - Move](https://www.epicor.com/en-us/solutions/business-process/move/): Learn about solutions for moving business processes forward.
+- [Epicor Guidelines Document](https://assets.epicor.com/guidelines/guide/3ae47613-3a80-4e86-90c8-ca7de537f5bc/page/0f834f4e-b3ad-4c62-b959-f1e35317748b): Access official guidelines and documentation.

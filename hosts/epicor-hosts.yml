@@ -1,0 +1,165 @@
+generated: '2026-10-20'
+method: derived
+source: the pre-flight dossier, apis.yml pointers, spec servers, well-known, vendors -- nothing fetched here
+generator: derive-hosts.py
+summary:
+  hosts: 12
+  own: 9
+  other_domain: 1
+  platform: 2
+  roles:
+  - api
+  - identity
+  - other
+  - portal
+  - source
+  - status
+  - website
+hosts:
+- host: api.epicor.com
+  found_by:
+  - contract-discovery
+  types: []
+  serves: []
+  registrable_domain: epicor.com
+  role: api
+  relation: own
+- host: assets.epicor.com
+  found_by:
+  - probed
+  - site-links
+  - docs-index
+  - contract-discovery
+  - well-known
+  types: []
+  serves:
+  - docs
+  registrable_domain: epicor.com
+  role: other
+  relation: own
+- host: developer.epicor.com
+  found_by:
+  - probed
+  - site-links
+  - namespace-probe
+  - well-known
+  types: []
+  serves: []
+  title: Partners | Epicor
+  status: 200
+  registrable_domain: epicor.com
+  role: portal
+  relation: own
+- host: epiccare.epicor.com
+  found_by:
+  - probed
+  - site-links
+  - docs-index
+  - contract-discovery
+  - well-known
+  types: []
+  serves:
+  - docs
+  registrable_domain: epicor.com
+  role: other
+  relation: own
+- host: epicweb.epicor.com
+  found_by:
+  - probed
+  - site-links
+  - docs-index
+  - contract-discovery
+  - well-known
+  types: []
+  serves:
+  - docs
+  registrable_domain: epicor.com
+  role: other
+  relation: own
+- host: github.com
+  found_by:
+  - pointer
+  types:
+  - GitHubOrganization
+  serves: []
+  registrable_domain: github.com
+  role: source
+  relation: platform
+- host: learncenter.epicor.com
+  found_by:
+  - probed
+  - site-links
+  - docs-index
+  - well-known
+  types: []
+  serves:
+  - docs
+  registrable_domain: epicor.com
+  role: other
+  relation: own
+- host: login.epicor.com
+  found_by:
+  - probed
+  - site-links
+  - docs-index
+  - well-known
+  types: []
+  serves:
+  - docs
+  registrable_domain: epicor.com
+  role: identity
+  relation: own
+- host: status.epicor.com
+  found_by:
+  - pointer
+  - probed
+  - site-links
+  - well-known
+  types:
+  - StatusPage
+  serves: []
+  registrable_domain: epicor.com
+  role: status
+  relation: own
+- host: www.epicor.com
+  found_by:
+  - pointer
+  - apis[]
+  - probed
+  - docs-index
+  - contract-discovery
+  - well-known
+  - vendor-detect
+  types:
+  - TermsOfService
+  - PrivacyPolicy
+  - Newsroom
+  - Website
+  - Documentation
+  - Blog
+  - Integrations
+  serves:
+  - docs
+  - cdn
+  vendor: cloudflare
+  registrable_domain: epicor.com
+  role: website
+  relation: own
+- host: www.youtube.com
+  found_by:
+  - pointer
+  types:
+  - YouTube
+  serves: []
+  registrable_domain: youtube.com
+  role: other
+  relation: platform
+- host: '{tenant}.epicorsaas.com'
+  found_by:
+  - apis[]
+  types: []
+  serves:
+  - api
+  registrable_domain: epicorsaas.com
+  role: other
+  relation: other-domain

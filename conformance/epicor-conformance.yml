@@ -1,0 +1,8 @@
+name: Epicor conformance
+generated: '2026-10-20'
+method: searched
+source: https://www.epicor.com/en/products/enterprise-resource-planning-erp/epicor-kinetic/tools-and-technology/open-rest-api/
+standards:
+  - id: odata
+    conforms: true
+    evidence: "https://www.epicor.com/en/products/enterprise-resource-planning-erp/epicor-kinetic/tools-and-technology/open-rest-api/ — \"REST services follow the OData v4 standard, enabling query parameters, metadata discovery, and integration with tools such as Excel, Power BI, and other OData-aware applications.\" (vendor claim; per-tenant $metadata not publicly reachable)"

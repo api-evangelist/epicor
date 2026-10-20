@@ -1,4 +1,5 @@
 aid: epicor
+
 deliveryModel:
   model: saas
   open_source: false
@@ -10,6 +11,7 @@ deliveryModel:
   - pricing
   generated: '2026-08-28'
   method: derived
+
 accessModel:
   pricing: unknown
   onboarding: unknown
@@ -21,16 +23,22 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/epicor.png
+
 name: Epicor
+
 description: >-
   Epicor Software Corporation provides industry-specific enterprise resource planning
   software for manufacturing, distribution, retail, and service industries. Epicor
   Kinetic, the flagship ERP platform, exposes an Open REST API built on OData v4 that
   gives developers service-based access to all business objects, processes, reports,
   BAQs, and Epicor Functions using standard HTTP methods and API key authentication.
+
 type: Index
+
 url: https://raw.githubusercontent.com/api-evangelist/epicor/refs/heads/main/apis.yml
+
 tags:
   - ERP
   - Manufacturing
@@ -38,9 +46,61 @@ tags:
   - Enterprise
   - REST
   - Fortune 500
+
 created: '2026-06-05'
-modified: '2026-06-05'
+
+modified: '2026-10-20'
+
 specificationVersion: '0.23'
+
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
+
+common:
+  - type: JSONLD
+    url: json-ld/epicor-context.jsonld
+  - type: Vocabulary
+    url: vocabulary/epicor-vocabulary.yml
+  - type: Authentication
+    url: authentication/epicor-authentication.yml
+  - type: Conformance
+    url: conformance/epicor-conformance.yml
+  - type: LLMsTxt
+    url: llms/epicor-llms.txt
+  - type: SecurityTxt
+    url: well-known/epicor-learncenter-security.txt
+  - type: WellKnown
+    url: well-known/epicor-well-known.yml
+  - type: Hosts
+    url: hosts/epicor-hosts.yml
+  - type: IntegrationEdges
+    url: integrations/epicor-integration-edges.yml
+  - type: Vendors
+    url: vendors/epicor-vendors.yml
+  - type: TermsOfService
+    url: https://www.epicor.com/en-us/company/compliance/terms/
+  - type: StatusPage
+    url: https://status.epicor.com/
+  - type: PrivacyPolicy
+    url: https://www.epicor.com/en-us/company/compliance/privacy/
+  - type: Newsroom
+    url: https://www.epicor.com/en-us/newsroom/
+  - type: DomainSecurity
+    url: security/epicor-domain-security.yml
+  - type: Website
+    url: https://www.epicor.com
+  - type: Documentation
+    url: https://www.epicor.com/en/products/enterprise-resource-planning-erp/epicor-kinetic/tools-and-technology/open-rest-api/
+  - type: Blog
+    url: https://www.epicor.com/en-us/blog/
+  - type: GitHubOrganization
+    url: https://github.com/epicor
+  - type: YouTube
+    url: https://www.youtube.com/@epicor
+  - type: Integrations
+    url: https://www.epicor.com/en/solutions/technology/integration/
+
 apis:
   - aid: epicor:epicor-kinetic-rest-api
     name: Epicor Kinetic Open REST API
@@ -63,29 +123,20 @@ apis:
         type: Documentation
       - url: https://www.epicor.com/en/solutions/technology/integration/
         type: Integrations
-common:
-  - type: DomainSecurity
-    url: security/epicor-domain-security.yml
-  - type: Website
-    url: https://www.epicor.com
-  - type: Documentation
-    url: https://www.epicor.com/en/products/enterprise-resource-planning-erp/epicor-kinetic/tools-and-technology/open-rest-api/
-  - type: Blog
-    url: https://www.epicor.com/en/blog/
-  - type: GitHubOrganization
-    url: https://github.com/epicor
-  - type: LinkedIn
-    url: https://www.linkedin.com/company/epicorsoftware
-  - type: YouTube
-    url: https://www.youtube.com/@epicor
-  - type: Pricing
-    url: https://www.epicor.com/en/resources/contact-us/
-  - type: About
-    url: https://www.epicor.com/en/about/
-  - type: Integrations
-    url: https://www.epicor.com/en/solutions/technology/integration/
-  - type: Support
-    url: https://www.epicor.com/en/products/epicor-connected-process-control/
-maintainers:
-  - FN: Kin Lane
-    email: kin@apievangelist.com
+x-enrichment:
+  date: '2026-10-20'
+  status: minimal
+  artifacts_added: 5
+  pass: local-v5
+x-coverage:
+  state: gated
+  reason: customer-only-docs
+  detail: Epicor publishes no OpenAPI or public reference; the Kinetic Open REST API is documented only in each customer tenant's built-in REST help, and developer.epicor.com redirects to the partners marketing page.
+  evidence:
+    - url: https://www.epicor.com/en/products/enterprise-resource-planning-erp/epicor-kinetic/tools-and-technology/open-rest-api/
+      status: 200
+    - url: https://developer.epicor.com/
+      status: 200
+    - url: https://epiccare.epicor.com/api/mcp
+      status: 401
+  checked: '2026-10-20'

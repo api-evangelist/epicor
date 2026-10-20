@@ -1,0 +1,9 @@
+name: Epicor authentication
+generated: '2026-10-20'
+method: searched
+source: https://www.epicor.com/en/products/enterprise-resource-planning-erp/epicor-kinetic/tools-and-technology/open-rest-api/
+docs: https://www.epicor.com/en/products/enterprise-resource-planning-erp/epicor-kinetic/tools-and-technology/open-rest-api/
+schemes:
+  - type: apiKey
+    description: "API keys, access scopes, and standard authentication methods control which services and methods are available to each integration. Security aligns with existing ERP user and data permissions."
+note: Header names and key formats are documented only in the per-tenant Kinetic REST help, which is customer-only.

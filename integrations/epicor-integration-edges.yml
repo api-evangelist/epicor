@@ -1,4 +1,21 @@
-generated: '2026-10-18'
+generated: '2026-10-20'
+method: searched
+source:
+- https://fivetran.com/docs-sitemap.xml
+- https://fivetran.com/docs/connectors/partner-built-program
+- https://zapier.com/apps/epicor/integrations
+- https://n8n.io/integrations/epicor/
+- https://composio.dev/toolkits/epicor
+- https://monid.ai/tools/epicor
+checked:
+- https://fivetran.com/docs-sitemap.xml
+- https://fivetran.com/docs/connectors/partner-built-program
+- https://composio.dev/toolkits/epicor
+- https://monid.ai/tools/epicor
+- https://n8n.io/integrations/epicor/
+- https://zapier.com/apps/epicor/integrations
+summary: null
+marketplace_apps: []
 edges:
 - partner_name: Fivetran
   partner: fivetran
@@ -26,10 +43,4 @@ edges:
     builder: Fivetran
   detected_by: sweep-data-integration.py
   first_seen: '2026-10-18'
-method: searched
-checked:
-- https://fivetran.com/docs-sitemap.xml
-- https://fivetran.com/docs/connectors/partner-built-program
-source:
-- https://fivetran.com/docs-sitemap.xml
-- https://fivetran.com/docs/connectors/partner-built-program
+templates: []
