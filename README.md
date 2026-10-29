@@ -1,4 +1,4 @@
-# Epicor (epicor)
+# Epicor
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,60 +66,112 @@
 
 Epicor Software Corporation provides industry-specific enterprise resource planning software for manufacturing, distribution, retail, and service industries. Epicor Kinetic, the flagship ERP platform, exposes an Open REST API built on OData v4 that gives developers service-based access to all business objects, processes, reports, BAQs, and Epicor Functions using standard HTTP methods and API key authentication.
 
-**APIs.json:** [https://raw.githubusercontent.com/api-evangelist/epicor/refs/heads/main/apis.yml](https://raw.githubusercontent.com/api-evangelist/epicor/refs/heads/main/apis.yml)
+**Areas:** ERP · Manufacturing · Distribution · Enterprise · REST · Fortune 500
 
-## Scope
+## Epicor on APIs.io
 
-- **Type:** Index
+Everything profiled for Epicor is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/epicor/](https://apis.io/providers/epicor/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### APIs (1)
 
-- ERP
-- Manufacturing
-- Distribution
-- Enterprise
-- REST
-- Fortune 500
+- [Epicor Kinetic Open REST API](https://apis.io/apis/epicor/epicor-kinetic-rest-api/) — The Epicor Kinetic Open REST API exposes all ERP capabilities through OData v4 compliant endpoints covering business objects, processes, reports, Business…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2026-06-05
-- **Modified:** 2026-06-05
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### JSON-LD (1)
 
-### Epicor Kinetic Open REST API
+Linked-data contexts for the provider's vocabulary.
 
-The Epicor Kinetic Open REST API exposes all ERP capabilities through OData v4 compliant endpoints covering business objects, processes, reports, Business Activity Queries (BAQs), and custom Epicor Functions. Access is controlled via API keys and scopes aligned with existing ERP user permissions. The built-in interactive help allows browsing services, inspecting metadata, and testing calls before integration.
+- [Epicor Context](https://apis.io/jsonld/epicor/epicor-context/)
 
-- **Human URL:** [https://www.epicor.com/en/products/enterprise-resource-planning-erp/epicor-kinetic/tools-and-technology/open-rest-api/](https://www.epicor.com/en/products/enterprise-resource-planning-erp/epicor-kinetic/tools-and-technology/open-rest-api/)
-- **Base URL:** `https://{tenant}.epicorsaas.com/api`
+#### Vocabulary (1)
 
-#### Tags
+The provider's domain terms, defined.
 
-- ERP
-- Manufacturing
-- OData
-- Business Objects
-- REST
+- [Epicor Kinetic ERP Vocabulary](https://apis.io/vocabularies/epicor/epicor-vocabulary/)
 
-#### Properties
+#### Security (2)
 
-- [Documentation](https://www.epicor.com/en/products/enterprise-resource-planning-erp/epicor-kinetic/tools-and-technology/open-rest-api/)
-- [Integrations](https://www.epicor.com/en/solutions/technology/integration/)
+Authentication, trust centre, and vulnerability disclosure.
 
-## Common Properties
+- [Epicor Authentication](https://apis.io/security/epicor/epicor-authentication/)
+- [Epicor Domain Security](https://apis.io/security/epicor/epicor-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Epicor Plans Pricing](https://apis.io/plans/epicor/epicor-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Epicor Rate Limits](https://apis.io/rate-limits/epicor/epicor-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.epicor.com)
 - [Documentation](https://www.epicor.com/en/products/enterprise-resource-planning-erp/epicor-kinetic/tools-and-technology/open-rest-api/)
-- [Blog](https://www.epicor.com/en/blog/)
-- [GitHub Organization](https://github.com/epicor)
-- [LinkedIn](https://www.linkedin.com/company/epicorsoftware)
-- [YouTube](https://www.youtube.com/@epicor)
-- [About](https://www.epicor.com/en/about/)
-- [Integrations](https://www.epicor.com/en/solutions/technology/integration/)
+- [Blog](https://www.epicor.com/en-us/blog/)
+- [Terms of service](https://www.epicor.com/en-us/company/compliance/terms/)
+- [Privacy policy](https://www.epicor.com/en-us/company/compliance/privacy/)
+- [GitHub](https://github.com/epicor)
+- [Status](https://status.epicor.com/)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
-**Email:** kin@apievangelist.com
+**Kin Score 25.8** — emerging · rubric 0.24.0 · scored 2026-10-20
+
+| Facet | Score |
+|---|---|
+| Discoverability | 67.9 |
+| Contract quality | 10.7 |
+| Contract governance | 30.0 |
+| Operational transparency | 18.4 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 21.1 |
+
+**Agent readiness 13.3** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/epicor/](https://apis.io/providers/epicor/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Epicor: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/epicor/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
